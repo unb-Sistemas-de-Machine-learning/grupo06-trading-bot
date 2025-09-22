@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
----
-name: 📝 Documentação
-about: Solicitar a criação ou melhoria da documentação.
-title: "[DOC] "
-labels: documentation
----
-
 ### Objetivo
 
 Descreva o que precisa ser documentado.
