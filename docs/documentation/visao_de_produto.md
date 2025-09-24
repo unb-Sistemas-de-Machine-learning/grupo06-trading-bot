@@ -46,7 +46,7 @@
 
 #### Por que a utilização de Inteligência Artifical é uma solução correta para esse problema?
 
-<p style="text-align: justify; text-indent: 2em;">Sim. O desafio central não é apenas executar ordens, mas prever o comportamento futuro dos preços em um ambiente altamente volátil. Os algoritmos de previsão temporal oferecem uma abordagem superior em relação a métodos manuais ou regras fixas, pois conseguem aprender padrões históricos, identificar sazonalidades, tendências e correlações complexas que não são visíveis à análise humana. Em mercados financeiros, onde segundos fazem diferença, a IA permite decisões mais rápidas, baseadas em previsões estatisticamente fundamentadas.</p>
+<p style="text-align: justify; text-indent: 2em;">O desafio central não é apenas executar ordens, mas prever o comportamento futuro dos preços em um ambiente altamente volátil. Os algoritmos de previsão temporal oferecem uma abordagem superior em relação a métodos manuais ou regras fixas, pois conseguem aprender padrões históricos, identificar sazonalidades, tendências e correlações complexas que não são visíveis à análise humana. Em mercados financeiros, onde segundos fazem diferença, a IA permite decisões mais rápidas, baseadas em previsões estatisticamente fundamentadas.</p>
 
 #### Qual o valor único que a Inteligência Artifical pode oferecer em comparação com soluções tradicionais?
 
