@@ -24,7 +24,7 @@
 <p style="text-align: justify; text-indent: 2em;">A partir desse mapeamento, observa-se que as perdas financeiras não são decorrentes exclusivamente da dificuldade de prever preços, mas resultam de um conjunto multifatorial de limitações, distribuídas em diferentes esferas de influência.</p>
 
 <div align="center">
-    <img src="../images/fishbone.png" alt="Diagrama de Ishikawa">
+    <img src="https://raw.githubusercontent.com/unb-Sistemas-de-Machine-learning/grupo06-trading-bot/refs/heads/gh-pages/docs/images/fishbone.png" alt="Diagrama de Ishikawa">
     <p style="text-align: center"><b>Figura 1:</b> Diagrama de Ishikawa</p>
 </div>
 
