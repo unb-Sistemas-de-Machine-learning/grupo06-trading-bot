@@ -44,6 +44,18 @@
 * Cérebro do Bot (Modelo de Machine Learning): constitui o núcleo preditivo do sistema, utilizando técnicas de aprendizado de máquina, como ARIMA ou redes neurais recorrentes (LSTM), para analisar séries temporais e gerar previsões sobre o comportamento futuro dos ativos. Este módulo visa identificar padrões não triviais nos dados e transformar essa análise em sinais de negociação confiáveis.
 * Motor de Execução: interpreta os sinais gerados pelo modelo preditivo e executa ordens de compra e venda em um ambiente de simulação (backtesting). Além de traduzir previsões em ações concretas, este módulo monitora o desempenho do sistema, permitindo ajustes e otimizações contínuas, garantindo que a estratégia seja robusta e adaptável a diferentes condições de mercado.
 
+#### Por que a utilização de Inteligência Artifical é uma solução correta para esse problema?
+
+<p style="text-align: justify; text-indent: 2em;">Sim. O desafio central não é apenas executar ordens, mas prever o comportamento futuro dos preços em um ambiente altamente volátil. Os algoritmos de previsão temporal oferecem uma abordagem superior em relação a métodos manuais ou regras fixas, pois conseguem aprender padrões históricos, identificar sazonalidades, tendências e correlações complexas que não são visíveis à análise humana. Em mercados financeiros, onde segundos fazem diferença, a IA permite decisões mais rápidas, baseadas em previsões estatisticamente fundamentadas.</p>
+
+#### Qual o valor único que a Inteligência Artifical pode oferecer em comparação com soluções tradicionais?
+
+<p style="text-align: justify; text-indent: 2em;">O diferencial da Inteligência Artificial, aplicada via algoritmos de previsão temporal, está em:</p>
+
+- Antecipar movimentos de mercado em vez de apenas reagir a eles.
+- Detectar padrões não lineares e relações dinâmicas entre preços, volumes e indicadores.
+- Adaptar-se continuamente a mudanças de regime do mercado, re-treinando modelos e refinando previsões com novos dados.
+- Fornecer previsões com níveis de confiança e métricas de erro (como MAE ou RMSE), oferecendo transparência e mensurabilidade de risco.
 
 ## Declaração de Posição de Produto
 
